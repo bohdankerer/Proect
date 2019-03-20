@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 New change
+=======
+>>>>>>> dev
 Hello
 Hello devcolibri
 Hello first change
