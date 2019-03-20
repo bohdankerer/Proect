@@ -1,5 +1,9 @@
-Hello git 123
+Hello git 123 Branch new
 Its new line
 Its old line
+<<<<<<< HEAD
 ITS MY LIFE
 
+=======
+dsfs
+>>>>>>> dev
