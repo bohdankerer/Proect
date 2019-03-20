@@ -3,6 +3,10 @@ New change
 =======
 >>>>>>> dev
 Hello
+<<<<<<< HEAD
 Hello devcolibri
 Hello first change
 Hello xtoc
+=======
+
+>>>>>>> dev
