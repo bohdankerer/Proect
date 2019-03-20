@@ -6,4 +6,8 @@ ITS MY LIFE
 
 =======
 dsfs
+<<<<<<< HEAD
 >>>>>>> f1d5728c8c927e9e5b27c64eecb5269a5bea0ee6
+=======
+>>>>>>> dev
+>>>>>>> newbranch
