@@ -1,5 +1,9 @@
 v Hello git 123 Branch new
 Its new line
 Its old line
+<<<<<<< HEAD
 ITS MY LIFE
 
+=======
+dsfs
+>>>>>>> f1d5728c8c927e9e5b27c64eecb5269a5bea0ee6
